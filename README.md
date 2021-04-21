@@ -4,6 +4,21 @@ I'm Vania!
 - 🤔 I’m looking for help with programming issues
 - ⚡ Fun fact: totally cheesy, need to laugh in every moment :"
 - I like singing, painting, any kind of arts
+## Tugas Praktikum Py01
+## Script 
+print("#/#############################/")
+print("#/                             /")
+print("#/     Program halo.py         /")
+print("#/ by vania.h.p@mail.ugm.ac.id /")
+print("#/                             /")
+print("#/#############################/")
+## Hasil
+#/#############################/
+#/                             /
+#/     Program halo.py         /
+#/ by vania.h.p@mail.ugm.ac.id /
+#/                             /
+#/#############################/
 
 <!--
 **vaniahp/vaniahp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
