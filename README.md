@@ -1,28 +1,5 @@
-### Hi there 👋 
-I'm Vania!
-- 🌱 I’m a college student of Gadjah Mada University
-- 🤔 I’m looking for help with programming issues
-- ⚡ Fun fact: totally cheesy, need to laugh in every moment :"
-- Don't forget to check my account [here!](https://www.instagram.com/vaniahp_/)
-## Tugas Praktikum Py01
-## Script 
-- print("#/#############################/")
-- print("#/                             /")
-- print("#/     Program halo.py         /")
-- print("#/ by vania.h.p@mail.ugm.ac.id /")
-- print("#/                             /")
-- print("#/#############################/")
-## Hasil
-- #/#############################/
-- #/                             /
-- #/     Program halo.py         /
-- #/ by vania.h.p@mail.ugm.ac.id /
-- #/                             /
-- #/#############################/
-<!--
-**vaniahp/vaniahp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+### About
+Hello everyone,
+Thank you for visiting my page and it's a pleasure to see you here.
+My name is Vania and now I'm a student of Geophysics at Gadjah Mada University. Since little, I have been interested in how the earth works, and now it develops into curiosity about how the earth processes the gas, petroleoum and geothermal. But beside that, I also put my attention on social issues that are constantly changing in every era.
+Don't forget to check my account [here!](https://www.instagram.com/vaniahp_/)
